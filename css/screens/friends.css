@@ -49,7 +49,7 @@
 
 #splash-screen {
   background: linear-gradient(304deg, #1c3f75, #55213f, #2a1a4d);
-  background-size: 300% 300%;
+  background-size: 400% 400%;
   /* animation: AnimationName 30s ease infinite; */
   /* background-color: var(--yellow); */
   position: absolute;
