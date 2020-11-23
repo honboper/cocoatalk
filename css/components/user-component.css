@@ -55,3 +55,6 @@
 .user-component__column img {
   object-fit: cover;
 }
+.user-component-chats {
+  margin-bottom: 24px;
+}
