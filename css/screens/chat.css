@@ -26,13 +26,13 @@
   opacity: 0;
 }
 .m-1 {
-  animation-delay: 1s;
+  animation-delay: 0.5s;
 }
 .m-2 {
-  animation-delay: 2s;
+  animation-delay: 1.5s;
 }
 .m-3 {
-  animation-delay: 3s;
+  animation-delay: 2.5s;
 }
 .main-chat {
   margin-top: 120px;
